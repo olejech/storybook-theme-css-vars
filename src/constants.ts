@@ -5,5 +5,5 @@ export const STORYBOOK_IFRAME_ID = "storybook-preview-iframe";
 export const PARAM_THEME = "theme";
 export const DEFAULT_PARAMS = {
   selector: "body",
-  dataAttr: "data-theme-mode",
+  dataAttr: "data-color-mode",
 };
