@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Oct 03 2021)
+
+#### ⚠️ Pushed to `main`
+
+- fix: storybook addon name (olejech@gmail.com)
+
+#### Authors: 1
+
+- olejech (olejech@gmail.com)
+
+---
+
 # v0.0.1 (Sun Oct 03 2021)
 
 #### ⚠️ Pushed to `main`
