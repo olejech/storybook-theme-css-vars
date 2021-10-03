@@ -1,4 +1,4 @@
-export const ADDON_ID = "storybook/theme-css-custom-properties";
+export const ADDON_ID = "storybook/theme-css-vars";
 export const TOOL_ID = `${ADDON_ID}/tool`;
 export const STORYBOOK_IFRAME_ID = "storybook-preview-iframe";
 

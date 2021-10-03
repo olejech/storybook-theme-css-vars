@@ -86,7 +86,7 @@
     "access": "public"
   },
   "storybook": {
-    "displayName": "Theme CSS Custom Properties",
+    "displayName": "Theme-CSS-Vars",
     "supportedFrameworks": [
       "react",
       "vue",
