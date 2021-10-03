@@ -1,0 +1,23 @@
+:root {
+  --white: #fff;
+  --black: #000;
+}
+
+:root [data-theme-mode="dark"] {
+  --white: #000;
+  --black: #fff;
+}
+
+.storybook-button {
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  border: 0;
+  border-radius: 3em;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1;
+  color: var(--white);
+  background-color: var(--black);
+  font-size: 14px;
+  padding: 11px 20px;
+}
