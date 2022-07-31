@@ -1,3 +1,15 @@
+# v0.0.5 (Sun Jul 31 2022)
+
+#### ⚠️ Pushed to `main`
+
+- update README ([@olejech](https://github.com/olejech))
+
+#### Authors: 1
+
+- Oleg ([@olejech](https://github.com/olejech))
+
+---
+
 # v0.0.4 (Sun Oct 03 2021)
 
 
