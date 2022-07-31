@@ -1,7 +1,9 @@
 # Storybook Theme CSS Custom Properties
 
-This addon can be used to set a data attribute in Storybook's iframe html
-element triggering a toggle between dark and light mode.
+![Storybook theme css vars](storybook-theme-css-vars.gif?raw=true "Storybook addon theme css")
+
+This addon can be used to set a data attribute in Storybook's iframe HTML
+element triggering a toggle between dark and light theme.
 
 Example styles:
 
@@ -11,7 +13,7 @@ Example styles:
   --black: #000;
 }
 
-:root [data-theme-mode="dark"] {
+:root [data-theme="dark"] {
   --white: #000;
   --black: #fff;
 }
@@ -36,8 +38,8 @@ Add parameters options to `.storybook/preview.js`:
 ```js
 export const parameters = {
   theme: {
-    selector: ".your-selector",
-    dataAttr: "data-your-attribute",
+    selector: "body (or your selector with data attribute)",
+    dataAttr: "data-theme (or your data attribute)",
   },
 };
 ```
