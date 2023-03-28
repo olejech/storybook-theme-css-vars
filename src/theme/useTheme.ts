@@ -14,7 +14,10 @@ export const useTheme = (theme: Theme) => {
 
   const toggleMode = () => {
     const iframe = getIframe(theme.selector);
-    iframe.setAttribute(theme.dataAttr, isDark ? "light" : "dark");
+    iframe.setAttribute(
+      theme.dataAttr,
+      isDark ? theme.nameDarkTheme : theme.nameLightTheme
+    );
     setIsDark((prev) => !prev);
   };
 

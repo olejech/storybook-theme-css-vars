@@ -6,4 +6,6 @@ export const PARAM_THEME = "theme";
 export const DEFAULT_PARAMS = {
   selector: "body",
   dataAttr: "data-color-mode",
+  nameLightTheme: "light",
+  nameDarkTheme: "dark",
 };
