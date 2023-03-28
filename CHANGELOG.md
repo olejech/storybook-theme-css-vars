@@ -10,6 +10,18 @@
 
 ---
 
+# v0.0.8 (Tue Mar 28 2023)
+
+#### ⚠️ Pushed to `main`
+
+- docs: fix typo (olejech@gmail.com)
+
+#### Authors: 1
+
+- olejech (olejech@gmail.com)
+
+---
+
 # v0.0.7 (Tue Mar 28 2023)
 
 #### ⚠️ Pushed to `main`
