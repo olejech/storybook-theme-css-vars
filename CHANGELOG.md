@@ -1,3 +1,15 @@
+# v0.0.7 (Tue Mar 28 2023)
+
+#### ⚠️ Pushed to `main`
+
+- docs: update README (olejech@gmail.com)
+
+#### Authors: 1
+
+- olejech (olejech@gmail.com)
+
+---
+
 # v0.0.6 (Tue Mar 28 2023)
 
 
