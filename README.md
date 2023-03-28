@@ -47,7 +47,7 @@ export const parameters = {
 ```
 
 - nameLightTheme (optional, default — "light")
-- nameDarkTheme: (optional, default — "dark"),
+- nameDarkTheme: (optional, default — "dark")
 
 ## Usage
 
