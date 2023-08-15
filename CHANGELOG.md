@@ -22,6 +22,18 @@
 
 ---
 
+# v0.0.10 (Tue Aug 15 2023)
+
+#### 🐛 Bug Fix
+
+- chore: add react 18 to package.json to emit the warning when installing node modules [#2](https://github.com/olejech/storybook-theme-css-vars/pull/2) ([@omarkhatibco](https://github.com/omarkhatibco))
+
+#### Authors: 1
+
+- Omar Khatib ([@omarkhatibco](https://github.com/omarkhatibco))
+
+---
+
 # v0.0.8 (Tue Mar 28 2023)
 
 #### ⚠️ Pushed to `main`
