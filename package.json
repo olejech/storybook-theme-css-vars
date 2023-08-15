@@ -1,6 +1,6 @@
 {
   "name": "storybook-theme-css-vars",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Theme switcher tool addon that changes the theme using CSS custom properties",
   "keywords": [
     "storybook-addons",
