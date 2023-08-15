@@ -71,8 +71,8 @@
     "@storybook/components": "^6.3.6",
     "@storybook/core-events": "^6.3.6",
     "@storybook/theming": "^6.3.6",
-    "react": "^16.8.0 || ^17.0.0",
-    "react-dom": "^16.8.0 || ^17.0.0"
+    "react": "^16.8.0 || ^17.0.0 || ^18.x",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.x"
   },
   "peerDependenciesMeta": {
     "react": {
